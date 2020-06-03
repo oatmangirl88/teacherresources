@@ -1,2 +1,2 @@
-# teacherresources
+# teacher-resources
 resources for teaching
